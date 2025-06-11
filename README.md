@@ -190,26 +190,12 @@ npm run build
 - **Azure OpenAI**: Visit [Azure Portal](https://portal.azure.com) → Create OpenAI Resource → Keys and Endpoint
 - **HuggingFace**: Visit [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
 
 ## 📄 License
 
 This project is licensed under the MIT License.
 
-## 🎯 Future Enhancements
-
-- [ ] Add character consistency across panels
-- [ ] Implement panel editing and regeneration
-- [ ] Add export functionality (PDF, images)
-- [ ] Include sound effects and dialogue bubbles
-- [ ] Add user accounts and story sharing
-- [ ] Implement different art styles selection
+Created by Krish Narula
 
 ---
 
